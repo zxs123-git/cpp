@@ -1,6 +1,6 @@
 #include <iostream>
 // 修正拼写错误
-using namespace std;
+using namespace std;123
 //c语言里面只有属性没有方法，类中c++里面有属性和方法
 //访问限定符（access specifier）：public, private, protected
 //申明和定义分离方便阅读
